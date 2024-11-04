@@ -10,7 +10,7 @@ Many thanks to all those who have submitted issues and pull requests to make thi
 
 4/7/2024 - Add documentation for new layer colors, and configurable modifier indicator color [#431](https://github.com/KinesisCorporation/Adv360-Pro-ZMK/pull/431)
 
-4/5/2024 - Update base ZMK, remove deprecated attributes, change flashing cmake [#424](https://github.com/KinesisCorporation/Adv360-Pro-ZMK/pull/424)
+4/5/2024 - Update base ZMK, remove deprecated attributes, change flashing cmake [#426](https://github.com/KinesisCorporation/Adv360-Pro-ZMK/pull/426)
 
 3/14/2024 - Fix Makefile errors that prevent builds on macOS [#409](https://github.com/KinesisCorporation/Adv360-Pro-ZMK/pull/409)
 
